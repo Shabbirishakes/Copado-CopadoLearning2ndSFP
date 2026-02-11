@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Country_of_Origin__c</fullName>
+    <label>Country of Origin</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>South Africa</fullName>
+                <default>false</default>
+                <label>South Africa</label>
+            </value>
+            <value>
+                <fullName>Uganda</fullName>
+                <default>false</default>
+                <label>Uganda</label>
+            </value>
+            <value>
+                <fullName>Zimbabwe</fullName>
+                <default>false</default>
+                <label>Zimbabwe</label>
+            </value>
+            <value>
+                <fullName>Botswana</fullName>
+                <default>false</default>
+                <label>Botswana</label>
+            </value>
+            <value>
+                <fullName>Lesotho</fullName>
+                <default>false</default>
+                <label>Lesotho</label>
+            </value>
+            <value>
+                <fullName>Zambia</fullName>
+                <default>false</default>
+                <label>Zambia</label>
+            </value>
+            <value>
+                <fullName>DR Congo</fullName>
+                <default>false</default>
+                <label>DR Congo</label>
+            </value>
+            <value>
+                <fullName>United States</fullName>
+                <default>false</default>
+                <label>United States</label>
+            </value>
+            <value>
+                <fullName>United Kingdom</fullName>
+                <default>false</default>
+                <label>United Kingdom</label>
+            </value>
+            <value>
+                <fullName>Canada</fullName>
+                <default>false</default>
+                <label>Canada</label>
+            </value>
+            <value>
+                <fullName>Australia</fullName>
+                <default>false</default>
+                <label>Australia</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
